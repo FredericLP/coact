@@ -36,6 +36,9 @@ app.get('/css/:file', function (request, response){
 app.get('/img/:file', function (request, response){
   response.sendFile(request.params.file, { root: './img'});
 });
+app.get('/favicon.ico', function (request, response){
+  response.sendFile('coact.ico', { root: './img'});
+});
 
 server.use('', app);
 server.listen(port);
