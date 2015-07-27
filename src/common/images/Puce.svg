@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Puce.svg"
+   inkscape:export-filename="/media/dasaule/DATA/@Real Doc/Travail/CoAct/Logo/CoAct.png"
+   inkscape:export-xdpi="68.459045"
+   inkscape:export-ydpi="68.459045">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="389.29621"
+     inkscape:cy="345.79362"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     width="400px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.3619)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3920"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3922"><rect
+           id="rect3924"
+           width="494.5"
+           height="60.5"
+           x="328"
+           y="404.86218" /></flowRegion><flowPara
+         id="flowPara3926" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00b0f0;fill-opacity:1;stroke-width:5;stroke-miterlimit:4"
+       d="m 149.48199,756.99059 c -80.575998,0 -145.854315,65.35466 -145.854315,145.96825 0,80.61362 65.278317,145.96826 145.854315,145.96826 80.57598,0 145.91092,-65.35464 145.91092,-145.96826 0,-80.61359 -65.33494,-145.96825 -145.91092,-145.96825 z m -0.0564,38.89845 c 58.95051,0 106.72955,47.84027 106.72955,106.89993 0,59.05964 -47.77904,106.95653 -106.72955,106.95653 -58.950535,0 -106.729589,-47.89689 -106.729589,-106.95653 0,-59.05966 47.779054,-106.89993 106.729589,-106.89993 z"
+       id="path3772" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#ec7a00;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4050"
+       sodipodi:cx="69.650017"
+       sodipodi:cy="209.1682"
+       sodipodi:rx="47.729706"
+       sodipodi:ry="27.223612"
+       d="m 117.37972,209.1682 a 47.729706,27.223612 0 1 1 -95.459409,0 47.729706,27.223612 0 1 1 95.459409,0 z"
+       transform="matrix(-1.9533862,0,0,-3.4139301,285.0209,1618.5139)" />
+  </g>
+</svg>

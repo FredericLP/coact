@@ -1,0 +1,28 @@
+{
+  "name": "coact",
+  "version": "0.0.1",
+  "scripts": {
+    "postinstall": "bower install --production --allow-root --config.interactive=false && gulp build",
+    "start": "gulp watch"
+  },
+  "dependencies": {
+    "bower": "*",
+    "coffee-script": "*",
+    "gulp": "*",
+    "gulp-angular-templatecache": "*",
+    "gulp-coffee": "*",
+    "gulp-concat": "*",
+    "gulp-filter": "*",
+    "gulp-less": "*",
+    "gulp-plug": "*",
+    "gulp-plumber": "*",
+    "gulp-rename": "*",
+    "gulp-jade": "*",
+    "gulp-replace": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-webserver": "*",
+    "main-bower-files": "^2.5.0",
+    "require-dir": "^0.1.0",
+    "wiredep": "*"
+  }
+}
