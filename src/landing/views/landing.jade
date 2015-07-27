@@ -1,20 +1,43 @@
-
-nav.navbar.navbar-default
-  .container-fluid
-    .navbar-header
-      a.navbar-brand(href="#")
-        img(src="img/CoAct.svg" onerror="this.onerror=null; this.src='img/CoAct.png'")
-    #navbar.navbar-collapse.collapse
-      ul.nav.navbar-nav.navbar-right
-        li.active
-          a(href="#") Home
-        li
-          a(href="#") About Us
-        li
-          a(href="#") Contact
-
 .container
   .page-header
-    img(src="img/CoAct.svg" onerror="this.onerror=null; this.src='img/CoAct.png'")
+    img.img-responsive(src="img/CoAct.svg" onerror="this.onerror=null; this.src='img/CoAct.png'")
 
-  div(ui-view)
+.jumbotron.blue
+  .container
+    .row
+      .col-md-12
+        h1 Pourquoi Travailler avec nous ?
+        p
+          | Notre savoir-faire : maximiser l'efficacité de vos collaborateurs en développant les pratiques collaboratives au sein de vos organisations.
+.div
+  .container.marketing
+    .row
+      .col-lg-4
+        .thumbnail
+          img.img-circle(src='img/Puce.svg' onerror='this.onerror=null;' this.src='img/Puce.png')
+          .caption
+            h2 Former votre personel
+            p
+              | Une meilleure connaissance de soi, de son propre fonctionnement en condition normale et sous stress,
+              | de nos attentes vis-à-vis de notre environnement et des personnes avec lesquelles nous communiquons
+            p
+              a.btn.btn-primary(href='#/personnel') Learn more
+      .col-lg-4
+        .thumbnail
+          img.img-circle(src='img/Puce.svg' onerror='this.onerror=null;' this.src='img/Puce.png')
+          .caption
+            h2 Enrichir vos organisation
+            p
+              | Par la mise en place de processus collaboratifs prenant en compte les besoins de plus en plus rapides de gestion du changement
+
+            p
+              a.btn.btn-primary(href='#') Learn more
+      .col-lg-4
+        .thumbnail
+          img.img-circle(src='img/Puce.svg' onerror='this.onerror=null;' this.src='img/Puce.png')
+          .caption
+            h2 Adapter votre technologie
+            p
+              | Par la mise en place de technologies favorisant la collaboration dès lors que celles-ci sont soutenues par les collaborateurs
+            p
+              a.btn.btn-primary(href='#') Learn more
