@@ -9,3 +9,7 @@ angular.module '%module%.landing'
     url: '/personnel'
     templateUrl: 'landing/views/personnel.html'
     parent: 'app'
+  .state 'contact',
+    url: '/contact'
+    templateUrl: 'landing/views/contact.html'
+    parent: 'app'
