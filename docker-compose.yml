@@ -11,5 +11,5 @@ proxy:
   ports:
     - '7777:7777'
   volumes:
-    - devops/proxy:/etc/nginx/conf.d
-    - www:/var/www
+    - ./devops/proxy:/etc/nginx/conf.d
+    - ./www:/var/www
