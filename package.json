@@ -1,6 +1,9 @@
 {
   "name": "coact",
   "version": "0.0.1",
+  "config": {
+    "unsafe-perm":true
+  },
   "scripts": {
     "postinstall": "bower install --production --allow-root --config.interactive=false && gulp build",
     "start": "gulp watch"
